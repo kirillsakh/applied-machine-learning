@@ -1,6 +1,6 @@
 """
 Custom machine learning module for Python 
-==================================
+=========================================
 
 mlpackage is a Python set of modules integrating selected machine
 learning algorithms in the scientific Python
