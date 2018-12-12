@@ -13,3 +13,5 @@ machine-learning as a versatile tool for science and engineering.
 __author__      = "kirill.sakhnov@gmail.com"
 __copyright__   = "Copyright (c) 2018"
 
+__all__ = []
+
