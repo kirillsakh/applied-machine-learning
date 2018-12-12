@@ -2,8 +2,8 @@
 Custom machine learning module for Python 
 ==================================
 
-mlpack is a Python module integrating selected machine
-learning algorithms in the tightly-knit world of scientific Python
+mlpackage is a Python set of modules integrating selected machine
+learning algorithms in the scientific Python
 packages (numpy, scipy, matplotlib).
 
 It aims to provide simple and efficient solutions to learning problems
