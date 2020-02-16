@@ -56,7 +56,6 @@ def householder_transformation(a, e):
     
     return H
 
-
 def solve_triangular(A, b):
     '''
     Solves the equation Ax = b when 'A'

@@ -33,7 +33,6 @@ def main():
 	report("Sklearn LinearReg", linreg_lib, X_test, y_test)
 	plt.show()
 
-
 def report(label, model, X, y):
 	y_pred = model.predict(X)
 	plt.scatter(x=y, y=y_pred, label=label, alpha=0.5)
